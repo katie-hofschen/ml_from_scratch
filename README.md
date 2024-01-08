@@ -20,8 +20,10 @@ ML algorithms implemented so far:
 * Naive Bayes
 * Perceptron
 * Support Vector Machine (SVM)
+* Decision Trees
 * distance measures (euclidian, manhattan, chebyshev, etc.)
 * activation functions (sigmoid, tanh, reLU, etc.)
 * metrics to measure performance (RMSE, MAE, accuracy, etc.)
+* In progress: Principle Component Analysis (PCA)
 
 This is a work in progress, so check back frequently for improved code and documentation.
