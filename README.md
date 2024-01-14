@@ -21,9 +21,11 @@ ML algorithms implemented so far:
 * Perceptron
 * Support Vector Machine (SVM)
 * Decision Trees
+* Principal Component Analysis (PCA)
 * distance measures (euclidian, manhattan, chebyshev, etc.)
 * activation functions (sigmoid, tanh, reLU, etc.)
 * metrics to measure performance (RMSE, MAE, accuracy, etc.)
-* In progress: Principal Component Analysis (PCA)
+
+* In Progress: K-means clustering
 
 This is a work in progress, so check back frequently for improved code and documentation.
