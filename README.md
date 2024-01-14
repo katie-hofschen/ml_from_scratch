@@ -13,7 +13,9 @@
 
 This repository of machine learning methods from scractch is a small revision of some basic algorithms and how to implement them with numpy. At the beginning of each file you will find explanations and descriptions of how the algorithms work.
 
-ML algorithms implemented so far:
+### Implemented ML algorithms:
+
+#### Supervised learning
 * Linear Regression
 * Logistic Regression
 * K-Nearest Neighbors (KNN)
@@ -21,11 +23,16 @@ ML algorithms implemented so far:
 * Perceptron
 * Support Vector Machine (SVM)
 * Decision Trees
+
+#### Unsupervised Learning
 * Principal Component Analysis (PCA)
+
+#### Functions such as Performance & distance measures, activation functions, etc.
 * distance measures (euclidian, manhattan, chebyshev, etc.)
 * activation functions (sigmoid, tanh, reLU, etc.)
 * metrics to measure performance (RMSE, MAE, accuracy, etc.)
 
-* In Progress: K-means clustering
+#### In Progress: 
+* K-means clustering
 
 This is a work in progress, so check back frequently for improved code and documentation.
