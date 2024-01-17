@@ -26,6 +26,7 @@ This repository of machine learning methods from scractch is a small revision of
 
 #### Unsupervised Learning
 * Principal Component Analysis (PCA)
+* K-means clustering
 
 #### Functions such as Performance & distance measures, activation functions, etc.
 * distance measures (euclidian, manhattan, chebyshev, etc.)
@@ -33,6 +34,6 @@ This repository of machine learning methods from scractch is a small revision of
 * metrics to measure performance (RMSE, MAE, accuracy, etc.)
 
 #### In Progress: 
-* K-means clustering
+* Linear Discriminant Analysis (LDA)
 
 This is a work in progress, so check back frequently for improved code and documentation.
